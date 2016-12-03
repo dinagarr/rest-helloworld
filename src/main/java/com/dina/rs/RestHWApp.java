@@ -11,6 +11,11 @@ public class RestHWApp {
 		// Add next comment
 		SpringApplication.run(RestHWApp.class, args);
 		System.out.println("Test data");
-
+		// Add next comment
+		// Add next comment
+	}
+	
+	private String test(){
+		return null;
 	}
 }
