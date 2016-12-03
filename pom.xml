@@ -10,7 +10,7 @@
 
 	<groupId>com.dina.rs</groupId>
 	<artifactId>rest-helloworld</artifactId>
-	<version>0.0.6</version>
+	<version>0.0.7</version>
 	<name>Rest-HelloWorld</name>
 
 	<prerequisites>
@@ -49,7 +49,7 @@
 					</flowInitContext>
 					<enableSshAgent>true</enableSshAgent>
 					<noReleaseBuild>true</noReleaseBuild>
-					<squash>true</squash>
+					<squash>false</squash>
 				</configuration>
 			</plugin>
 		</plugins>
