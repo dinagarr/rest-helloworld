@@ -49,7 +49,7 @@
 					</flowInitContext>
 					<enableSshAgent>true</enableSshAgent>
 					<noReleaseBuild>true</noReleaseBuild>
-					<squash>true</squash>
+					<squash>false</squash>
 				</configuration>
 			</plugin>
 		</plugins>
