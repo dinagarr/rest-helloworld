@@ -8,6 +8,7 @@ public class RestHWApp {
 
 	public static void main(String[] args) {
 		// Comment added
+		// Add next comment
 		SpringApplication.run(RestHWApp.class, args);
 		System.out.println("Test data");
 
