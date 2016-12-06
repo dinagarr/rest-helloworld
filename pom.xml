@@ -10,7 +10,7 @@
 
 	<groupId>com.dina.rs</groupId>
 	<artifactId>rest-helloworld</artifactId>
-	<version>0.0.14-SNAPSHOT</version>
+	<version>0.0.15-SNAPSHOT</version>
 	<name>Rest-HelloWorld</name>
 
 	<prerequisites>
