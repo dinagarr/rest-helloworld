@@ -22,7 +22,7 @@ pipeline {
     }
     stage('Build') {
       steps {
-        sh 'mvn clean install'
+        sh 'echo "Builing project"'
       }
     }
   }
